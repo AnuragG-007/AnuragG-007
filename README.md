@@ -1,6 +1,6 @@
-<!-- HEADER: Deep Space Metallic Gradient -->
+<!-- HEADER: Deep Space Metallic Gradient (Industry Focused) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Anurag%20Gaikwad&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Specialist%20%7C%20Full-Cycle%20MLOps&descAlignY=60&descSize=22&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Anurag%20Gaikwad&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20AI&descAlignY=60&descSize=22&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION: Dynamic Skills -->
@@ -28,7 +28,7 @@ I have extensive academic and practical experience in:
 *   **Sequence Models:** Building RNNs and LSTMs for time-series and text data.
 *   **NLP:** Fine-tuning Large Language Models for summarization and QA.
 
-My goal is to bridge the gap between research and production by deploying these models as robust, scalable **Backend Services** using **FastAPI, PostgreSQL, and Docker**.
+My goal is to bridge the gap between models and production by deploying robust, scalable **Backend Services** using **FastAPI, PostgreSQL, and Docker**.
 
 *   🔭 **Current Focus:** Advanced LLM Fine-Tuning & Multi-Modal Systems.
 *   🤝 **Collaboration:** I enjoy contributing to open-source and working in agile teams.
@@ -44,7 +44,7 @@ My goal is to bridge the gap between research and production by deploying these 
 
 *   **Degree:** B.Tech in Computer Science & Engineering (AIML Specialization)
 *   **Institute:** Indian Institute of Information Technology, Nagpur
-*   **Timeline:** 2023 - 2027 (Expected)
+*   **Timeline:** 2023 - 2027
 *   **CGPA:** 7.67 / 10.0
 
 ---
@@ -104,15 +104,15 @@ This project demonstrates my ability to integrate complex AI models into a produ
 ### 🏆 Live Performance
 
 <div align="center">
-  <!-- LeetCode Stats: Increased Size -->
+  <!-- LeetCode Stats -->
   <a href="https://leetcode.com/u/Anky_G_33/">
     <img src="https://leetcard.jacoblin.cool/Anky_G_33?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="220" />
   </a>
   
-  <!-- Spacing Entity (Adds padding between images) -->
+  <!-- Spacing Entity -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- CodeForces Stats: Increased Size -->
+  <!-- CodeForces Stats -->
   <a href="https://codeforces.com/profile/Anky_8790">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Anky_8790&theme=tokyonight&hide_border=true&font=Fira%20Code" alt="CodeForces Stats" height="220" />
   </a>
@@ -122,18 +122,18 @@ This project demonstrates my ability to integrate complex AI models into a produ
 
 <!-- ADDITIONAL PROFILES -->
 <div align="center">
-  <a href="https://huggingface.co/YOUR_HF_USERNAME">
+  <a href="https://huggingface.co/Anurag33Gaikwad">
     <img src="https://img.shields.io/badge/HuggingFace-Models_Deployed-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   &nbsp;&nbsp; <!-- Spacing -->
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+  <a href="https://www.kaggle.com/anuraggaikwad33">
     <img src="https://img.shields.io/badge/Kaggle-Datasets_&_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<!-- CONTACT HEADER: Animated Call to Action -->
+<!-- CONTACT HEADER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
@@ -145,20 +145,23 @@ This project demonstrates my ability to integrate complex AI models into a produ
 <!-- IMPRESSIVE BUTTON ROW -->
 <div align="center">
   
-  <!-- LinkedIn: The "Main" Button -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anurag-gaikwad-a78342322/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Hire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   
   <br><br>
 
-  <!-- Email Row: Clean & Sharp -->
-  <a href="mailto:anugaikwad157@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  <!-- Personal Email -->
+  <a href="mailto:anugaikwad157@gmail.com" title="anugaikwad157@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anugaikwad157@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:bt23csa008@iiitn.ac.in">
-    <img src="https://img.shields.io/badge/Academic_Mail-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="30" />
+  
+  <br>
+  
+  <!-- Academic Email -->
+  <a href="mailto:bt23csa008@iiitn.ac.in" title="bt23csa008@iiitn.ac.in">
+    <img src="https://img.shields.io/badge/College-bt23csa008@iiitn.ac.in-4285F4?style=flat&logo=google-scholar&logoColor=white" height="35" />
   </a>
 
 </div>
