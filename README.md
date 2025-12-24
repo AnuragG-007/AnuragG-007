@@ -134,9 +134,16 @@ This project demonstrates my ability to integrate complex AI models into a produ
 
 <!-- GITHUB STATS -->
 ### 📊 Performance Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragG-007&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragG-007&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnuragG-007&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnuragG-007&layout=compact&theme=gotham&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
 
 ---
