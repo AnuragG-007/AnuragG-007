@@ -81,7 +81,7 @@ This project demonstrates my ability to design production-style AI systems, comb
 *   **💻 Frontend:** Interactive UI integrated with backend APIs (Next.js-based workflow).
 
 <p align="left"> 
-  <a href="https://github.com/AnuragG-007/steam-gamefinder"> 
+  <a href="https://github.com/AnuragG-007/steam-games-search-recommend"> 
     <img src="https://img.shields.io/badge/Repository-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
   <a href="https://steam-games-amg.vercel.app/"> 
