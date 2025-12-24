@@ -69,23 +69,25 @@ My goal is to bridge the gap between models and production by deploying robust, 
 ### 🚀 Flagship Project
 
 ### 🎮 Steam GameFinder (LLM, Vector Search & Backend)
->*An AI-powered semantic game discovery and recommendation system for Steam.*
+>*An AI-powered semantic game discovery and recommendation system based on Steam Data.*
 
 This project demonstrates my ability to design production-style AI systems, combining LLM reasoning, vector search, and hybrid ranking to solve real-world discovery problems.
 
-🧠 Intent Understanding: LLaMA 3.1–based semantic parsing for mood, genre, and gameplay mechanics.
+*   **🧠 Intent Understanding:** LLaMA 3.1–based semantic parsing for mood, genre, and gameplay mechanics.
+*   **🔎 Retrieval:** Dense semantic embeddings (multilingual-e5-large) with Pinecone vector search.
+*   **⚡ Ranking Engine:** Hybrid re-ranking using semantic similarity, popularity heuristics, quality metrics, and penalties.
+*   **🤖 Reasoning Layer:** Backend-level explainability ensuring logically consistent recommendations.
+*   **⚙️ Backend:** Scalable FastAPI service with clean, frontend-agnostic JSON APIs.
+*   **💻 Frontend:** Interactive UI integrated with backend APIs (Next.js-based workflow).
 
-🔎 Retrieval: Dense semantic embeddings (multilingual-e5-large) with Pinecone vector search.
-
-⚡ Ranking Engine: Hybrid re-ranking using semantic similarity, popularity heuristics, quality metrics, and penalties.
-
-🤖 Reasoning Layer: Backend-level explainability ensuring logically consistent recommendations.
-
-⚙️ Backend: Scalable FastAPI service with clean, frontend-agnostic JSON APIs.
-
-💻 Frontend: Interactive UI integrated with backend APIs (Next.js-based workflow).
-
-<p align="left"> <a href="https://github.com/AnuragG-007/steam-gamefinder"> <img src="https://img.shields.io/badge/Repository-2b2b2b?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://steam-games-amg.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="left"> 
+  <a href="https://github.com/AnuragG-007/steam-gamefinder"> 
+    <img src="https://img.shields.io/badge/Repository-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+  <a href="https://steam-games-amg.vercel.app/"> 
+    <img src="https://img.shields.io/badge/Live_Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a> 
+</p>
 
 #### 📜 Legal Document Summarizer (LLM & Backend)
 > *A full-stack AI application featuring a fine-tuned Transformer model and robust backend architecture.*
