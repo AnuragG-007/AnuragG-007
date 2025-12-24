@@ -132,52 +132,37 @@ This project demonstrates my ability to integrate complex AI models into a produ
 
 ---
 
-<!-- GITHUB STATS -->
-### 📊 Performance Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnuragG-007&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnuragG-007&layout=compact&theme=gotham&hide_border=true&langs_count=8"
-    height="170"
-  />
-</p>
-
----
-
 <!-- LIVE PERFORMANCE STATS -->
-### 🏆 Live Performance
+### 🏆 Problem Solving & Competitive Programming
 
-<div align="center">
-  <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/u/Anky_G_33/">
-    <img src="https://leetcard.jacoblin.cool/Anky_G_33?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="220" />
+<p align="center"> 
+  <!-- LeetCode --> 
+  <a href="https://leetcode.com/u/Anky_G_33/"> 
+    <img src="https://leetcard.jacoblin.cool/Anky_G_33?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="220" /> 
   </a>
-  
-  <!-- Spacing Entity -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- CodeForces Stats -->
-  <a href="https://codeforces.com/profile/Anky_8790">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Anky_8790&theme=tokyonight&hide_border=true&font=Fira%20Code" alt="CodeForces Stats" height="220" />
-  </a>
-</div>
+  <!-- Codeforces --> 
+  <a href="https://codeforces.com/profile/Anky_8790"> 
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Anky_8790&theme=tokyonight&hide_border=true&font=Fira%20Code" alt="Codeforces Stats"        height="220" /> 
+  </a> 
+</p> 
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Focus-DSA_|_Competitive_Programming-blueviolet?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Strength-Problem_Solving_|_Algorithms-success?style=for-the-badge" /> 
+</p> 
 
 <br>
 
-<!-- ADDITIONAL PROFILES -->
-<div align="center">
-  <a href="https://huggingface.co/Anurag33Gaikwad">
-    <img src="https://img.shields.io/badge/HuggingFace-Models_Deployed-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+### 🤖 ML & Research Profiles
+
+<p align="center"> 
+  <a href="https://huggingface.co/Anurag33Gaikwad"> 
+    <img src="https://img.shields.io/badge/HuggingFace-Models_Deployed_&_Experiments-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> 
   </a>
-  &nbsp;&nbsp; <!-- Spacing -->
-  <a href="https://www.kaggle.com/anuraggaikwad33">
-    <img src="https://img.shields.io/badge/Kaggle-Datasets_&_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</div>
+  <a href="https://www.kaggle.com/anuraggaikwad33"> 
+    <img src="https://img.shields.io/badge/Kaggle-Datasets_|_Notebooks_|_Experiments-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> 
+  </a> 
+</p>
 
 ---
 
