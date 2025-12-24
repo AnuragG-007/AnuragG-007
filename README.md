@@ -89,6 +89,26 @@ This project demonstrates my ability to design production-style AI systems, comb
   </a> 
 </p>
 
+#### 📈 Financial Time Series Forecasting (Bi-LSTM + FastAPI)
+> *End-to-end sequence modeling system for financial time series.*
+
+This project demonstrates my ability to build **production-aware time-series ML systems**, from data processing to real-time inference.
+
+* **🧠 Model:** Bidirectional LSTM for learning temporal dependencies  
+* **📊 Framing:** Sliding-window time-series formulation (no data leakage)  
+* **⚙️ Backend:** FastAPI-based real-time inference service  
+* **📉 Evaluation:** Temporal splits with error metrics (MSE, MAE, direction)  
+* **🧩 Design:** Clean separation of training and deployment pipelines  
+
+<p align="left">
+  <a href="https://github.com/AnuragG-007/LSTM-financial-dashboard-build">
+    <img src="https://img.shields.io/badge/Frontend_Repo-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://stock-pred-lstm.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 #### 📜 Legal Document Summarizer (LLM & Backend)
 > *A full-stack AI application featuring a fine-tuned Transformer model and robust backend architecture.*
 
