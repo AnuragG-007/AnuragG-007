@@ -30,7 +30,7 @@ I have extensive academic and practical experience in:
 
 My goal is to bridge the gap between models and production by deploying robust, scalable **Backend Services** using **FastAPI, PostgreSQL, and Docker**.
 
-*   🔭 **Current Focus:** Advanced LLM Fine-Tuning & Multi-Modal Systems.
+*   🔭 **Current Focus:** Advanced LLM Fine-Tuning, Generative AI, Multi-Modal Systems, and Computer Vision.
 *   🤝 **Collaboration:** I enjoy contributing to open-source and working in agile teams.
 
 <br clear="right"/>
@@ -45,7 +45,7 @@ My goal is to bridge the gap between models and production by deploying robust, 
 *   **Degree:** B.Tech in Computer Science & Engineering (AIML Specialization)
 *   **Institute:** Indian Institute of Information Technology, Nagpur
 *   **Timeline:** 2023 - 2027
-*   **CGPA:** 7.67 / 10.0
+*   **CGPA:** 7.60 / 10.0
 
 ---
 
@@ -66,7 +66,7 @@ My goal is to bridge the gap between models and production by deploying robust, 
 ---
 
 <!-- FEATURED PROJECT -->
-### 🚀 Flagship Project
+### 🚀 Flagship Projects
 
 ### 🎮 Steam GameFinder (LLM, Vector Search & Backend)
 >*An AI-powered semantic game discovery and recommendation system based on Steam Data.*
@@ -129,6 +129,32 @@ This project demonstrates my ability to integrate complex AI models into a produ
     <img src="https://img.shields.io/badge/Live_Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+
+#### 🏎️⚽ OpenCV Sports Analysis (OpenCV, FastAPI & Next.js)
+>*A full-stack computer vision system for sports analytics with real-time style inference and production-ready deployment.*
+
+This project focuses on turning raw sports footage into **clean annotated results** using an OpenCV-first inference pipeline, ONNX Runtime, FastAPI, and a Next.js/React frontend.
+
+*   **🖼️ OpenCV Pipeline:** Letterbox preprocessing, BGR→RGB conversion, tensor formatting, confidence filtering, class-wise NMS, and rendering.
+*   **🏎️ Formula 1 Detection:** Constructor-level object detection across broadcast footage.
+*   **⚽ Football Segmentation:** Instance segmentation for players, goalkeeper, referee, and ball.
+*   **📈 Strong Validation Results:**
+    *   **F1 Detection:** Precision 0.884, Recall 0.884, mAP@50 0.935, mAP@50-95 0.773
+    *   **Football BBox:** Precision 0.959, Recall 0.920, mAP@50 0.947, mAP@50-95 0.688
+    *   **Football Masks:** Precision 0.835, Recall 0.803, mAP@50 0.802, mAP@50-95 0.456
+*   **⚙️ Backend:** FastAPI with ONNX Runtime inference and API endpoints for analysis.
+*   **💻 Frontend:** Next.js + React interface for uploads, results, and visualization.
+
+<p align="left">
+  <a href="https://github.com/AnuragG-007/openCV-Sports-Analysis">
+    <img src="https://img.shields.io/badge/Repository-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://open-cv-sports-analysis.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
